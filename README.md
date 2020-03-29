@@ -1,2 +1,2 @@
 # jiang-nginx
-服务器
+nginx服务器

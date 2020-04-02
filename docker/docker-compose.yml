@@ -3,7 +3,7 @@ services:
   nginx:
     image: 'nginx:1.17.9'
     restart: always
-    container_name: nginx
+    container_name: jiang-nginx
     ports:
       - 9002:80
     volumes:
